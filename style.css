@@ -1,0 +1,114 @@
+body {
+    background-image: url('jesus-kiteque-wn-KYaHwcis-unsplash.jpg');
+	color: #555;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+    margin: 0;
+}
+
+
+.header{
+    text-align: center;
+    margin: auto;
+	overflow: auto;
+}
+.container {
+	
+	margin: auto;
+	overflow: auto;
+}
+#top-header {
+	background-color: #080808;
+	color: aqua;
+}
+#links {
+	background-color: gray;
+}
+#links a {
+	color:#fafbfc;
+	text-align: right;
+}
+#links li {
+	display: inline;
+}
+#view-port {
+    background-image: url('abstract-hexagonal-geometric-ultra-wide-260nw-1206683305.jpg');
+    color: rgb(233, 243, 233);
+	background-position: center;
+	text-align: center;
+}
+#about-me {
+    float: left;
+    margin: 5px;
+	width: 70%;
+	box-sizing: border-box;
+	margin-top: 15px;
+	border: 2px grey solid;
+	border-radius: 10px;
+	}
+#sidewall {
+    float: right;
+    margin: 5px;
+    width: auto;
+    height: auto;
+	margin-top: 5px;
+	padding-right: 100px;
+	box-sizing: border-box;
+    }
+    #education {
+        list-style: none;
+        float: left;
+        margin: 5px;
+        width: 90%;
+        box-sizing: border-box;
+        margin-top: 15px;
+        border: 2px grey solid;
+       border-radius: 10px;
+       }
+#projects {
+   float: left;
+   margin: 5px;
+   width: 90%;
+   box-sizing: border-box;
+   margin-top: 15px;
+   border: 2px grey solid;
+  border-radius: 10px;
+  }
+#skills {
+     float: left;
+     margin: 5px;
+     width: 90%;
+     box-sizing: border-box;
+     margin-top: 15px;   
+      border: 2px grey solid;
+      border-radius: 10px;
+  }
+  #contact {
+    list-style: none;
+    margin: 5px;
+    float: left;
+    width: 90%;
+    box-sizing: border-box;
+    margin-top: 15px;   
+     border: 1px grey solid;
+     border-radius: 10px;
+ }
+            
+#main-footer {
+	text-align: center;
+	padding: 15px;
+	margin-top: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
